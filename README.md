@@ -8,7 +8,7 @@ I enjoy building scalable microservices and working with distributed systems.
 ## 🛠 Tech Stack
 
 **Languages:**  
-Java • C/C++ • SQL • Shell  
+(https://skillicons.dev/icons?i=java,C++,Shell&theme=light)](https://skillicons.dev)
 
 **Backend & Frameworks:**  
 Spring Boot • Spring Security • Spring MVC • Spring Data JPA  
