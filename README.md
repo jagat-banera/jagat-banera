@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Jagat Banera 👋
 
-<!--
-**jagat-banera/jagat-banera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer with experience in fintech platforms and high-volume transaction systems.  
+I enjoy building scalable microservices and working with distributed systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Languages:**  
+Java • C/C++ • SQL • Shell  
+
+**Backend & Frameworks:**  
+Spring Boot • Spring Security • Spring MVC • Spring Data JPA  
+
+**Messaging & Data:**  
+Apache Kafka • PostgreSQL • TimescaleDB • SQLite  
+
+**DevOps & Tools:**  
+Docker • Git • Maven • Linux • IntelliJ IDEA • Postman  
+
+---
+
+Always learning and building.
