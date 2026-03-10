@@ -1,8 +1,6 @@
 # Hi, I'm Jagat Banera 👋
 
-Backend Developer
-
-I enjoy building scalable microservices and working with distributed systems.
+I enjoy building microservices and working with Linux Based Systems.
 
 ---
 
